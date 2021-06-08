@@ -5,7 +5,7 @@
 
 Install the project locally
 ```bash
-https://github.com/SenayYakut/Rock_Paper_Scissors.git
+https://github.com/SenayYakut/Secret-Message.git
 ```
 
 ## Usage
